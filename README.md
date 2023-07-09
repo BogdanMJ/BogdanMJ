@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BogdanMJ
+- 👋 Hi, I’m @BogdanMJ, but my name is Mateusz :)
 - 👀 I’m interested in python, Data Science, Machine Learning
 - 🌱 I’m currently learning python, Data Science, Machine Learning :) also Grafana & Prometheus
 - 📫 How to reach me matjab93@gmail.com
